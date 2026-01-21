@@ -1,0 +1,1 @@
+This folder contains circuit schematics as well as pictures of the wiring layout.
