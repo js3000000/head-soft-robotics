@@ -28,7 +28,7 @@ This robot could be used by companies as an airborne internet relay or a mobile 
 
 During my design process, I reflected on how these robots might continue to exist even without humans. They could hover in distant skies for months, silently moving with the wind, fulfilling no task but their own presence. Imagining them enduring beyond us highlights their autonomy and energy efficiency, and raises questions about how machines can persist and interact with their environment long after we are gone. In a way, their quiet persistence becomes a reflection on the future of technology and the traces we leave behind.
 
-### references
+### References
 
 Maruccia, Alfonso. ‘This Bird-Inspired Drone Is More Energy Efficient and Proficient at Complex Flight Maneuvers’. TechSpot, 6 December 2024. [https://www.techspot.com/news/105865-bird-inspired-drone-more-energy-efficient-proficient-complex.html](https://www.techspot.com/news/105865-bird-inspired-drone-more-energy-efficient-proficient-complex.html).
 
