@@ -57,7 +57,7 @@ For some mysterious reason, while I was doing something I always dreamed of doin
 
 We had to make a first presentation for 2PM. So, I builded I paper prototype to show to my peers. At this point, I really had the feeling that I could have done it pretty earlier, almost two days ago. I was still in a very bad mood, and it was slowing my activities.
 
-![presentation](./img/20260109-presentation-prototypes 1.jpeg)
+![presentation](https://github.com/js3000000/head-soft-robotics/blob/main/presentations/20260109/20260109-presentation-prototypes.jpeg)
 
 I was looking for microphones, at least three of them, to make a prototype that folds according to wind direction. Unfortunately, the Digital Pool was closed and their was no way for me to find microphones. Fortunately, I had one in my own arduino kit.
 
