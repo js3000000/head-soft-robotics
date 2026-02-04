@@ -5,7 +5,7 @@ I was excused. I just read the brief and the pdf from Natalie Nathalie Guimbreti
 
 ## Tuesday 06.01
 
-![[unpacking-arduino.jpeg]]
+![unpacking-arduino](../img/unpacking-arduino.jpeg))
 
 ![[head-md-soft-robots/research/img/knob-basic-circuit.jpeg]]
 
