@@ -21,6 +21,7 @@ This robot cannot be built with today’s technology, but in the near future it 
 This robot could be used by companies as an airborne internet relay or a mobile weather station, capable of operating for long durations with minimal energy. Its wind-powered, gliding design also makes it suitable for deployment on other planets with atmospheres. By exploiting environmental forces instead of relying on constant propulsion, it offers a promising alternative to drone helicopters such as Ingenuity on Mars, enabling longer missions, wider coverage, and reduced energy constraints.
 
 ![NASA Ingenuity](./img/nasa-ingenuity.png)
+
 *Ingenuity undertakes its first test flight on Mars in this illustration. Credits : NASA / JPL-Caltech*
 
 
