@@ -5,9 +5,9 @@ I was excused. I just read the brief and the pdf from Natalie Nathalie Guimbreti
 
 ## Tuesday 06.01
 
-![unpacking-arduino](../img/unpacking-arduino.jpeg)
+![unpacking-arduino](./img/unpacking-arduino.jpeg)
 
-![knob-basic-circuit](head-md-soft-robots/research/img/knob-basic-circuit.jpeg)
+![knob-basic-circuit](./img/knob-basic-circuit.jpeg)
 
 I unpacked my Arduino kit. Then I tried to follow a tutorial from Benjamin where we had to install p5.serial control and build a simple Arduino circuit with a potentiometer that changes the size of a circle in p5 in the browser, locally (with help from Clara)
 
