@@ -17,7 +17,7 @@ We had to pitch our first ideas to Clara and Benjamin. I wanted to work on a rob
 
 I was open for exploration at this point and wondered if I could imagine  a robot that could make loud noise from time to time like the **White Bellbird** or if I could imagine a robot that could detect muons or dark matter and would behave according to its density.
 
-I think Clara and Benjamin didn't get what I wanted to do and suggested me to make a robot that could recycle waste or detect CO2.  We also talked about robot that clean space. As the project already existed, and because I was more interested in something flying in air, I didn't took the bait.
+I think Clara and Benjamin didn't get what I wanted to do and suggested me to make a robot that could recycle waste or detect CO2.  We also talked about robot that clean space. As the project already existed, and because I was more interested in something flying, I didn't took the bait.
 
 ## Wednesday 07.01
 
@@ -65,9 +65,9 @@ I had to lower my expectations and humble myself.
 
 **Multimeters and photons.**
 
-Elena (my classmate) and I really wanted to understand how solar panels were working. We were using a halogen lamp that Elena had found in Emmaüs to enlighten the panel.
+E. (my classmate) and I really wanted to understand how solar panels were working. We were using a halogen lamp that she had found in Emmaüs to enlighten the panel.
 
-We were trying to measure amperes coming out from a big solar panel she brought. We couldn't get any coherent numbers. Pablo, our assistant, made us realize that the multimeters we were using for days were cooked...
+We were trying to measure amperes coming out from a big solar panel she brought. We couldn't get any coherent numbers. P., our assistant, made us realize that the multimeters we were using for days were cooked...
 
 ## Saturday 10.01
 
@@ -81,11 +81,11 @@ Searching for e-waste at home. Found a bunch of smartphone and adapters that I p
 
 **Bad mood - ep.3**
 
-I still believed that I could find more micrphones, so I went to the Digital pool again, finding the door closed. I have lost precious hours finding ways to reach them. I should have let this go on Friday... but I couldn't.
+I still believed that I could find more microphones, so I went to the Digital pool again, finding the door closed. I have lost precious hours finding ways to reach them. I should have let this go on Friday... but I couldn't.
 
 **Making the robot**
 
-I finally started to test detectors with a servo motor. Nothing was working, even though I followed the tutorial from the arduino book. Clara made me realize that I had the wiring wrong... The + and the - were inverted on my board. I promised not to make this mistake again (of course it will happen again).
+I finally started to test detectors with a servo motor. Nothing was working, even though I followed the tutorial from the arduino book. Clara made me realize that I had the wiring wrong... The + and the - were inverted on my board. I promised not to make this mistake again (of course, it will happen again).
 
 **All about detection**
 
@@ -93,22 +93,44 @@ I started with a MQ2 detector that was suppose to detect CO2, but we realised th
 
 Anyway, I wasn't really convinced by this device.
 
+**New horizons**
+
+Last week, Benjamin talked me into the idea of thinking of biomaterial to make our robots (it could stay an abstraction, because we wouldn't have the time to make all those things). Based on this idea, our assistant of the day, A., gave us a book of receipe to make DIY bioplastics. I choosed a vegan version made of agar agar and glycerine. I went to the Pharmacy to get some 85% glycerine. E. joined the aventure, even proposing to cook the plastic at her place.
+
 ## Tuesday 13.01
 
 
+**Working on presentation**
+
+I tried to start the making of the slide for our first presentation planned on Friday. I went to E.´s place and we started to discuss our concept. I was looking for a title that would evoke something floating poetically over the sea. I came up with "Lonely Common Swift". I wasn't very satisfied, but it was enough for the moment.
+
+**Bioplastic experiments**
+
+We started our experiment with E. Unfortunately. Most of our ingredients weren't exactly the ones listed in the book. We had to make adjustments, and we weren´t very sure about what we would get in the end. It felt already too wet.
+
 ## Wednesday 14.01
 
-Making the code for the flapping. I wanted it to look like it was reacting to wind. So, i tried to make an artificial non linear response to the blow on the mic. I tested two different methods. In the end, the simpliest one was the best.
+Making the code for the flapping. I wanted it to look like it was reacting to wind. So, I tried to make an artificial non linear response to the blow on the mic. I tested two different methods (one with a sin function...). In the end, the simpliest one was the best.
 
 ## Thursday 15.01
 
 I really wanted to have a hovering effect under my paper prototype. I found a fan in the lab room that was working well. I put it into a black box and I hung the prototype over it. It took me hours. Then I had little time to make the arduino circuit work. I had the code from the day before, but I didn't had the time to fine tune the whole installation. I also had to prepare slide for the presentation. As time passed, It became clear that I will have to make a choice between a working demo and slides for the presentation.
 
+** Presentation **
+
+We had to present our work to people in our classroom and people in visio. We had Clara plus two people from the CNRS on a computer, carried around by Benjamin. 
+
 ## Friday 16.01
 
-We prepared the exhibition for the open days.
+We prepared the exhibition for the open days, tyding up all the rooms, all together.
 
 ## Saturday 17.01
 
 Open days at HEAD.
+![Open days installation](https://github.com/js3000000/head-soft-robotics/blob/main/presentations/20260117/20260117-open-days-installation-3.jpeg)
 
+I had a slot from 12:00AM to 14:00AM. It was pretty interesting to watch people trying to figure our work out. Obviously, our exhibition was missing some explanations. 
+
+We didn't cross much future media designers. The other floors were packed.
+
+My overall impression of the day was good. I felt pretty good this day.
